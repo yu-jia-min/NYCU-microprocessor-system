@@ -38,7 +38,7 @@ Software profiling alone cannot accurately capture real hardware execution chara
 
 ### 🔹 2. Branch Prediction Mechanisms
 
-📄 [Report](./bpu/Analysis_of_BPU.pdf)
+📄 [Report](./Analysis_of_BPU.pdf)
 
 * Evaluated impact of BHT size on prediction accuracy
 * Implemented and analyzed **TAGE predictor architecture**
@@ -77,7 +77,7 @@ Scheduling and synchronization introduce non-trivial overhead that affects real-
 
 ### 🔹 5. Domain-Specific Accelerators (DSA)
 
-📄 [Report](./dsa/Domain_Specific_Accelerator.pdf)
+📄 [Report](./DSA/Domain_Specific_Accelerator.pdf)
 
 * Designed a hardware accelerator for floating-point inner product
 * Integrated via **MMIO interface**
