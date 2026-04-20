@@ -38,7 +38,7 @@ Software profiling alone cannot accurately capture real hardware execution chara
 
 ### 🔹 2. Branch Prediction Mechanisms
 
-📄 [Report](./Analysis_of_BPU.pdf)
+📄 [Report](./BPU/Analysis_of_BPU.pdf)
 
 * Evaluated impact of BHT size on prediction accuracy
 * Implemented and analyzed **TAGE predictor architecture**
